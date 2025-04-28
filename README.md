@@ -1,73 +1,27 @@
-# Welcome to your Lovable project
+🍳 AI Recipe Generator
+Welcome to the AI Recipe Generator — a smart and dynamic web application that creates personalized recipes based on your ingredients, preferences, and cooking style.
+Powered by AI and built with cutting-edge technologies for a smooth, responsive experience.
 
-## Project info
+🚀 Features
+Ingredient-Based Recipe Creation
+Enter ingredients you have and instantly get delicious recipes.
 
-**URL**: https://lovable.dev/projects/5315ae7b-cd39-4fdd-a81b-a514c8d3aedc
+Dietary and Cuisine Preferences
+Filter by dietary needs (vegan, keto, gluten-free) or cuisine types (Italian, Asian, Mexican, etc.).
 
-## How can I edit this code?
+Dynamic Step-by-Step Instructions
+Receive AI-generated cooking steps based on your available items.
 
-There are several ways of editing your application.
+User Accounts & Saved Recipes
+Securely store your favorite recipes using Supabase authentication and database.
 
-**Use Lovable**
+Responsive Design
+Optimized for desktop, tablet, and mobile screens with a beautiful UI.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5315ae7b-cd39-4fdd-a81b-a514c8d3aedc) and start prompting.
+🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5315ae7b-cd39-4fdd-a81b-a514c8d3aedc) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Technology	Purpose
+React.js	Frontend library for building the UI
+TypeScript	Strongly typed JavaScript for reliability
+Tailwind CSS	Utility-first CSS framework for styling
+Supabase	Backend services (database, auth, storage)
