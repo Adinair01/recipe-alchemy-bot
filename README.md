@@ -1,27 +1,27 @@
 🍳 AI Recipe Generator
-Welcome to the AI Recipe Generator — a smart and dynamic web application that creates personalized recipes based on your ingredients, preferences, and cooking style.
-Powered by AI and built with cutting-edge technologies for a smooth, responsive experience.
+An intelligent web application that crafts personalized recipes based on your ingredients and preferences — powered by AI and modern web technologies.
+Built to make cooking smarter, faster, and more creative.
 
-🚀 Features
-Ingredient-Based Recipe Creation
-Enter ingredients you have and instantly get delicious recipes.
+<p align="center"> <img src="your-demo-screenshot-or-gif-link" alt="AI Recipe Generator Demo" width="80%" /> </p>
+🚀 Tech Stack
+<div align="center">
 
-Dietary and Cuisine Preferences
-Filter by dietary needs (vegan, keto, gluten-free) or cuisine types (Italian, Asian, Mexican, etc.).
+Frontend	Backend	Styling	Database & Auth
+React.js ⚛️	Supabase 🛡️	Tailwind CSS 🎨	Supabase 📦
+TypeScript 📝	-	-	-
+</div>
+✨ Features
+🥗 Ingredient-Based Recipe Generation
+Enter ingredients and instantly get full recipes.
 
-Dynamic Step-by-Step Instructions
-Receive AI-generated cooking steps based on your available items.
+🌎 Cuisine & Dietary Filtering
+Select cuisines (Italian, Asian, Mexican) or dietary needs (Vegan, Keto, Gluten-Free).
 
-User Accounts & Saved Recipes
-Securely store your favorite recipes using Supabase authentication and database.
+📜 Dynamic Step-by-Step Instructions
+Personalized, easy-to-follow cooking steps.
 
-Responsive Design
-Optimized for desktop, tablet, and mobile screens with a beautiful UI.
+💾 User Authentication & Saved Recipes
+Secure login/signup and save your favorite recipes using Supabase.
 
-🛠️ Tech Stack
-
-Technology	Purpose
-React.js	Frontend library for building the UI
-TypeScript	Strongly typed JavaScript for reliability
-Tailwind CSS	Utility-first CSS framework for styling
-Supabase	Backend services (database, auth, storage)
+📱 Responsive Design
+Mobile-friendly and fast-loading across devices.
